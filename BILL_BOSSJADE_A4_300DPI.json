@@ -4,8 +4,15 @@
         "date": { "x": 400, "y": 750 },
         "customerName": { "x": 50, "y": 720 },
         "email": { "x": 50, "y": 700 },
-        "itemsStart": { "x": 50, "y": 650 },
-        "tax": { "x": 50, "y": 650 },
+        "items": {
+            "description": { "x": 50 },
+            "quantity": { "x": 200 },
+            "price": { "x": 350 },
+            "amount": { "x": 500 },
+            "startY": 650,  
+            "lineSpacing": 20  
+        },
+        "tax": { "x": 50, "y": 120 },
         "totals": { "x": 400, "y": 100 }
     }
 }
