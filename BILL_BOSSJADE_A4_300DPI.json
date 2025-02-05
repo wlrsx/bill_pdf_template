@@ -1,8 +1,8 @@
 {
     "positions": {
-        "invoiceNumber": { "x": 1360, "y": 2134 },
+        "no": { "x": 1360, "y": 2134 },
         "date": { "x": 1360, "y": 2090 },
-        "customerName": { "x": 355, "y": 2090 },
+        "name": { "x": 355, "y": 2090 },
         "email": { "x": 355, "y": 2030 },
         "items": {
             "no": { "x": 200 },
@@ -10,8 +10,8 @@
             "quantity": { "x": 1000 },
             "price": { "x": 1230 },
             "amount": { "x": 1500 },
-            "startY": 1740,  
-            "lineSpacing": 20  
+            "startY": 1740,
+            "lineSpacing": 20
         },
         "tax": { "x": 50, "y": 120 },
         "totals": { "x": 400, "y": 100 }
