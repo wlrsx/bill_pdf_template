@@ -1,6 +1,6 @@
 {
     "positions": {
-        "no": { "x": 1366, "y": 2120, "font": "Helvetica-Bold", "fontSize": 35 },
+        "no": { "x": 1366, "y": 2133, "font": "Helvetica-Bold", "fontSize": 35 },
         "date": { "x": 1360, "y": 2090, "font": "Helvetica", "fontSize": 28 },
         "name": { "x": 355, "y": 2090, "font": "Helvetica-Bold", "fontSize": 35 },
         "email": { "x": 355, "y": 2030, "font": "Helvetica", "fontSize": 35 },
