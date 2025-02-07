@@ -1,9 +1,9 @@
 {
     "positions": {
-        "no": { "x": 1366, "y": 2130, "font": "Helvetica-Bold", "fontSize": 35 },
-        "date": { "x": 1366, "y": 2070, "font": "Helvetica", "fontSize": 28 },
-        "name": { "x": 355, "y": 2090, "font": "Helvetica-Bold", "fontSize": 35 },
-        "email": { "x": 355, "y": 2030, "font": "Helvetica", "fontSize": 35 },
+        "no": { "x": 1366, "y": 2127, "font": "Helvetica-Bold", "fontSize": 35 },
+        "date": { "x": 1366, "y": 2065, "font": "Helvetica", "fontSize": 28 },
+        "name": { "x": 355, "y": 2065, "font": "Helvetica-Bold", "fontSize": 35 },
+        "email": { "x": 355, "y": 2045, "font": "Helvetica", "fontSize": 35 },
         "items": {
             "no": { "x": 200, "font": "Helvetica", "fontSize": 10 },
             "description": { "x": 310, "font": "Helvetica", "fontSize": 10 },
