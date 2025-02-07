@@ -1,15 +1,15 @@
 {
     "positions": {
-        "no": { "x": 1370, "y": 2150, "font": "Helvetica-Bold", "fontSize": 30 },
-        "date": { "x": 1370, "y": 2030, "font": "Helvetica", "fontSize": 25 },
-        "name": { "x": 350, "y": 2050, "font": "Helvetica", "fontSize": 35 },
-        "email": { "x": 350, "y": 2030, "font": "Helvetica", "fontSize": 35 },
+        "no": { "x": 1360, "y": 2134, "font": "Helvetica-Bold", "fontSize": 35 },
+        "date": { "x": 1360, "y": 2090, "font": "Helvetica", "fontSize": 28 },
+        "name": { "x": 355, "y": 2090, "font": "Helvetica-Bold", "fontSize": 35 },
+        "email": { "x": 355, "y": 2030, "font": "Helvetica", "fontSize": 35 },
         "items": {
-            "no": { "x": 200, "font": "Helvetica", "fontSize": 25 },
-            "description": { "x": 310, "font": "Helvetica", "fontSize": 25 },
-            "quantity": { "x": 1000, "font": "Helvetica", "fontSize": 25 },
-            "price": { "x": 1230, "font": "Helvetica", "fontSize": 25 },
-            "amount": { "x": 1500, "font": "Helvetica", "fontSize": 25 },
+            "no": { "x": 200, "font": "Helvetica", "fontSize": 10 },
+            "description": { "x": 310, "font": "Helvetica", "fontSize": 10 },
+            "quantity": { "x": 1000, "font": "Helvetica", "fontSize": 10 },
+            "price": { "x": 1230, "font": "Helvetica", "fontSize": 10 },
+            "amount": { "x": 1500, "font": "Helvetica", "fontSize": 10 },
             "startY": 1740,
             "lineSpacing": 20
         },
