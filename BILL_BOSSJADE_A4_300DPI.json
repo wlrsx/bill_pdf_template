@@ -1,7 +1,7 @@
 {
     "positions": {
-        "no": { "x": 1350, "y": 2100, "font": "Helvetica-Bold", "fontSize": 30 },
-        "date": { "x": 1350, "y": 2030, "font": "Helvetica", "fontSize": 25 },
+        "no": { "x": 1370, "y": 2100, "font": "Helvetica-Bold", "fontSize": 30 },
+        "date": { "x": 1370, "y": 2030, "font": "Helvetica", "fontSize": 25 },
         "name": { "x": 350, "y": 2050, "font": "Helvetica", "fontSize": 35 },
         "email": { "x": 350, "y": 2030, "font": "Helvetica", "fontSize": 35 },
         "items": {
