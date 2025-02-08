@@ -11,7 +11,7 @@
             "price": { "x": 1225, "font": "Helvetica", "fontSize": 30 },
             "amount": { "x": 1674, "font": "Helvetica", "fontSize": 30 },
             "startY": 1720,
-            "lineSpacing": 35
+            "lineSpacing": 50
         },
         "tax": { "x": 50, "y": 120, "font": "Helvetica-Bold", "fontSize": 12 },
         "totals": { "x": 400, "y": 100, "font": "Helvetica-Bold", "fontSize": 14 }
