@@ -6,11 +6,11 @@
         "email": { "x": 186, "y": 2005, "font": "Helvetica", "fontSize": 45 },
         "items": {
             "no": { "x": 200, "font": "Helvetica", "fontSize": 35 },
-            "description": { "x": 310, "font": "Helvetica", "fontSize": 35 },
-            "quantity": { "x": 1000, "font": "Helvetica", "fontSize": 35 },
-            "price": { "x": 1230, "font": "Helvetica", "fontSize": 35 },
-            "amount": { "x": 1500, "font": "Helvetica", "fontSize": 35 },
-            "startY": 1740,
+            "description": { "x": 305, "font": "Helvetica", "fontSize": 35 },
+            "quantity": { "x": 981, "font": "Helvetica", "fontSize": 35 },
+            "price": { "x": 1225, "font": "Helvetica", "fontSize": 35 },
+            "amount": { "x": 1483, "font": "Helvetica", "fontSize": 35 },
+            "startY": 1720,
             "lineSpacing": 20
         },
         "tax": { "x": 50, "y": 120, "font": "Helvetica-Bold", "fontSize": 12 },
