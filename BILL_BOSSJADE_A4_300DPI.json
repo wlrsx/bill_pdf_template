@@ -9,7 +9,7 @@
             "description": { "x": 305, "font": "Helvetica", "fontSize": 30 },
             "quantity": { "x": 981, "font": "Helvetica", "fontSize": 30 },
             "price": { "x": 1225, "font": "Helvetica", "fontSize": 30 },
-            "amount": { "x": 1483, "font": "Helvetica", "fontSize": 30 },
+            "amount": { "x": 1674, "font": "Helvetica", "fontSize": 30 },
             "startY": 1720,
             "lineSpacing": 20
         },
