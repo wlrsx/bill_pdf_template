@@ -5,11 +5,11 @@
         "name": { "x": 186, "y": 2060, "font": "Helvetica", "fontSize": 36 },
         "email": { "x": 186, "y": 1995, "font": "Helvetica", "fontSize": 36 },
         "items": {
-            "number": { "x": 200, "font": "Helvetica", "fontSize": 30 },
-            "description": { "x": 305, "font": "Helvetica", "fontSize": 30 },
-            "quantity": { "x": 981, "font": "Helvetica", "fontSize": 30 },
-            "price": { "x": 1225, "font": "Helvetica", "fontSize": 30 },
-            "amount": { "x": 1674, "font": "Helvetica", "fontSize": 30 },
+            "number": { "x": 200, "font": "Roboto", "fontSize": 30 },
+            "description": { "x": 305, "font": "Roboto", "fontSize": 30 },
+            "quantity": { "x": 981, "font": "Roboto", "fontSize": 30 },
+            "price": { "x": 1225, "font": "Roboto", "fontSize": 30 },
+            "amount": { "x": 1674, "font": "Roboto", "fontSize": 30 },
             "startY": 1720,
             "lineSpacing": 60
         },
