@@ -1,15 +1,15 @@
 {
     "positions": {
-        "no": { "x": 1370, "y": 2127, "font": "Montserrat", "fontSize": 36 },
-        "date": { "x": 1266, "y": 2055, "font": "Montserrat", "fontSize": 28 },
-        "name": { "x": 186, "y": 2060, "font": "Montserrat", "fontSize": 36 },
-        "email": { "x": 186, "y": 1995, "font": "Montserrat", "fontSize": 36 },
+        "no": { "x": 1370, "y": 2127, "font": "Lato", "fontSize": 36 },
+        "date": { "x": 1266, "y": 2055, "font": "Lato", "fontSize": 28 },
+        "name": { "x": 186, "y": 2060, "font": "Lato", "fontSize": 36 },
+        "email": { "x": 186, "y": 1995, "font": "Lato", "fontSize": 36 },
         "items": {
-            "number": { "x": 200, "font": "Montserrat", "fontSize": 30 },
-            "description": { "x": 305, "font": "Montserrat", "fontSize": 30 },
-            "quantity": { "x": 981, "font": "Montserrat", "fontSize": 30 },
-            "price": { "x": 1225, "font": "Montserrat", "fontSize": 30 },
-            "amount": { "x": 1674, "font": "Montserrat", "fontSize": 30 },
+            "number": { "x": 200, "font": "Lato", "fontSize": 30 },
+            "description": { "x": 305, "font": "Lato", "fontSize": 30 },
+            "quantity": { "x": 981, "font": "Lato", "fontSize": 30 },
+            "price": { "x": 1225, "font": "Lato", "fontSize": 30 },
+            "amount": { "x": 1674, "font": "Lato", "fontSize": 30 },
             "startY": 1720,
             "lineSpacing": 60
         },
