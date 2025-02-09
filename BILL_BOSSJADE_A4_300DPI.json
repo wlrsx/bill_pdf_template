@@ -3,7 +3,7 @@
         "no": { "x": 1370, "y": 2127, "font": "Montserrat", "fontSize": 36 },
         "date": { "x": 1266, "y": 2055, "font": "Montserrat", "fontSize": 28 },
         "name": { "x": 186, "y": 2060, "font": "Montserrat", "fontSize": 36 },
-        "email": { "x": 186, "y": 1995, "font": "Poppins", "fontSize": 36 },
+        "email": { "x": 186, "y": 1995, "font": "Montserrat", "fontSize": 36 },
         "items": {
             "number": { "x": 200, "font": "Montserrat", "fontSize": 30 },
             "description": { "x": 305, "font": "Montserrat", "fontSize": 30 },
