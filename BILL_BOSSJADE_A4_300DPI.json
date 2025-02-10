@@ -6,7 +6,7 @@
         "email": { "x": 186, "y": 1995, "font": "Montserrat", "fontSize": 36 },
         "items": {
             "number": { "x": 200, "font": "Montserrat", "fontSize": 30 },
-            "description": { "x": 305, "font": "EmpoSansLight", "fontSize": 30 },
+            "description": { "x": 305, "font": "NanoPyongHanHei-Regular", "fontSize": 30 },
             "quantity": { "x": 981, "font": "Montserrat", "fontSize": 30 },
             "price": { "x": 1225, "font": "Montserrat", "fontSize": 30 },
             "amount": { "x": 1674, "font": "Montserrat", "fontSize": 30 },
