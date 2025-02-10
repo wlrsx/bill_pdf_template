@@ -14,7 +14,7 @@
             "lineSpacing": 60
         },
         "tax": { "x": 50, "y": 120, "font": "Montserrat", "fontSize": 33 },
-        "totals": { "x": 400, "y": 100, "font": "Montserrat", "fontSize": 33 }
+        "totals": { "x": 400, "y": 100, "font": "Montserrat-Bold", "fontSize": 33 }
     },
     "settings": {
         "itemsPerPage": 10
