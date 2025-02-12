@@ -17,6 +17,7 @@
         }
     },
     "settings": {
+        "itemsStartY": 1720,
         "itemsLineSpacing": 80,
         "descriptionMaxWidth": 600,
         "itemsPerPage": 10
