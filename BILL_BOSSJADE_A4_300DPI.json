@@ -8,7 +8,7 @@
         "items": {
             "number": { "x": 200, "font": "Montserrat", "fontSize": 30 },
             "description": { "x": 305, "font": "Montserrat", "fontSize": 30 },
-            "quantity": { "x": 981, "font": "Montserrat", "fontSize": 30 },
+            "quantity": { "x": 1026, "font": "Montserrat", "fontSize": 30 },
             "price": { "x": 1225, "font": "Montserrat", "fontSize": 30 },
             "amount": { "x": 1674, "font": "Montserrat", "fontSize": 30 },
             "startY": 1720,
