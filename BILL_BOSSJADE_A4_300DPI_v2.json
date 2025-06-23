@@ -15,7 +15,7 @@
             "description": { "x": 249, "font": "Montserrat", "fontSize": 30 },
             "note": { "x": 249, "font": "Montserrat", "fontSize": 25 },
             "quantity": { "x": 915, "font": "Montserrat", "fontSize": 30 },
-            "unit": { "x": 1100, "font": "Montserrat", "fontSize": 30 },
+            "unit": { "x": 1100, "font": "Montserrat", "fontSize": 30 , "display": false },
             "price_cny": { "x": 1267, "font": "Montserrat", "fontSize": 30 },
             "price_usd": { "x": 1538, "font": "Montserrat", "fontSize": 30 }
         }
