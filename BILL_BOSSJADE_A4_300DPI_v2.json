@@ -1,0 +1,22 @@
+{
+    "positions": {
+        "id": { "x": 1370, "y": 2258, "font": "Montserrat", "fontSize": 36 },
+        "date": { "x": 1266, "y": 2186, "font": "Montserrat", "fontSize": 28 },
+        "name": { "x": 186, "y": 2235, "font": "Montserrat", "fontSize": 36 },
+        "email": { "x": 186, "y": 2170, "font": "Montserrat", "fontSize": 36 },
+        "remark": { "x": 200, "y": 550, "font": "Montserrat", "fontSize": 36 },
+        "items": {
+            "number": { "x": 200, "font": "Montserrat", "fontSize": 30 },
+            "description": { "x": 305, "font": "Montserrat", "fontSize": 30 },
+            "quantity": { "x": 1026, "font": "Montserrat", "fontSize": 30 },
+            "price": { "x": 1225, "font": "Montserrat", "fontSize": 30 },
+            "amount": { "x": 1674, "font": "Montserrat", "fontSize": 30 }
+        }
+    },
+    "settings": {
+        "itemsStartY": 1720,
+        "itemsLineSpacing": 60,
+        "descriptionMaxWidth": 600,
+        "itemsPerPage": 10
+    }
+}
