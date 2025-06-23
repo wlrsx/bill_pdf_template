@@ -21,7 +21,7 @@
     },
     "settings": {
         "itemsStartY": 1870,
-        "itemsHight": 1300,
+        "itemsHeight": 1300,
         "itemsLineSpacing": 60,
         "descriptionMaxWidth": 600,
         "itemsPerPage": 10
