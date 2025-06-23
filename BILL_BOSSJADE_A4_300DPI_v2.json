@@ -7,16 +7,16 @@
         "remark": { "x": 200, "y": 550, "font": "Montserrat", "fontSize": 36 },
         "cards": {
             "card_no": { "x": 160, "font": "Montserrat", "fontSize": 30 },
-            "amount_cny": { "x": 1230, "font": "Montserrat", "fontSize": 30 },
-            "amount_usd": { "x": 1500, "font": "Montserrat", "fontSize": 30 }
+            "amount_cny": { "x": 1280, "font": "Montserrat", "fontSize": 30 },
+            "amount_usd": { "x": 1515, "font": "Montserrat", "fontSize": 30 }
         },
         "items": {
             "number": { "x": 60, "font": "Montserrat", "fontSize": 30 },
             "description": { "x": 186, "font": "Montserrat", "fontSize": 30 },
             "note": { "x": 186, "font": "Montserrat", "fontSize": 25 },
             "quantity": { "x": 980, "font": "Montserrat", "fontSize": 30 },
-            "price_cny": { "x": 1230, "font": "Montserrat", "fontSize": 30 },
-            "price_usd": { "x": 1500, "font": "Montserrat", "fontSize": 30 }
+            "price_cny": { "x": 1280, "font": "Montserrat", "fontSize": 30 },
+            "price_usd": { "x": 1515, "font": "Montserrat", "fontSize": 30 }
         }
     },
     "settings": {
