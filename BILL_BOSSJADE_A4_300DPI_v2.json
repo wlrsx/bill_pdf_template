@@ -12,9 +12,9 @@
         },
         "items": {
             "number": { "x": 60, "font": "Montserrat", "fontSize": 30 },
-            "description": { "x": 249, "font": "Montserrat", "fontSize": 30 },
-            "note": { "x": 249, "font": "Montserrat", "fontSize": 25 },
-            "quantity": { "x": 915, "font": "Montserrat", "fontSize": 30 },
+            "description": { "x": 186, "font": "Montserrat", "fontSize": 30 },
+            "note": { "x": 186, "font": "Montserrat", "fontSize": 25 },
+            "quantity": { "x": 980, "font": "Montserrat", "fontSize": 30 },
             "price_cny": { "x": 1230, "font": "Montserrat", "fontSize": 30 },
             "price_usd": { "x": 1500, "font": "Montserrat", "fontSize": 30 }
         }
