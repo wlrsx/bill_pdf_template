@@ -10,8 +10,7 @@
             "amount_usd": { "x": 1515, "font": "Montserrat", "fontSize": 30 }
         },
         "items": {
-            "number": { "x": 60, "font": "Montserrat", "fontSize": 30 },
-            "card_no": { "x": 160, "font": "Montserrat", "fontSize": 30 },
+            "number": { "x": 160, "font": "Montserrat", "fontSize": 30 },
             "description": { "x": 360, "font": "Montserrat", "fontSize": 30 },
             "note": { "x": 360, "font": "Montserrat", "fontSize": 25 },
             "quantity": { "x": 980, "font": "Montserrat", "fontSize": 30 },
