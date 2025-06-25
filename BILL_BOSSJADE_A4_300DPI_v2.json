@@ -5,12 +5,9 @@
         "name": { "x": 186, "y": 2180, "font": "Montserrat", "fontSize": 36 },
         "email": { "x": 186, "y": 2115, "font": "Montserrat", "fontSize": 36 },
         "remark": { "x": 200, "y": 550, "font": "Montserrat", "fontSize": 36 },
-        "cards": {
-            "amount_cny": { "x": 1280, "font": "Montserrat", "fontSize": 30 },
-            "amount_usd": { "x": 1515, "font": "Montserrat", "fontSize": 30 }
-        },
         "items": {
             "number": { "x": 160, "font": "Montserrat", "fontSize": 30 },
+            "card_no": { "x": 260, "font": "Montserrat", "fontSize": 30 },
             "description": { "x": 360, "font": "Montserrat", "fontSize": 30 },
             "note": { "x": 360, "font": "Montserrat", "fontSize": 25 },
             "quantity": { "x": 980, "font": "Montserrat", "fontSize": 30 },
@@ -20,9 +17,8 @@
     },
     "settings": {
         "itemsStartY": 1870,
-        "itemsHeight": 1300,
         "itemsLineSpacing": 60,
         "descriptionMaxWidth": 600,
-        "itemsPerPage": 10
+        "linesPerPage": 10
     }
 }
