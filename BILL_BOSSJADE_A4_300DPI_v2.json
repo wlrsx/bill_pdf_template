@@ -19,6 +19,6 @@
         "itemsStartY": 1870,
         "itemsLineSpacing": 60,
         "descriptionMaxWidth": 600,
-        "linesPerPage": 20
+        "maxLinesPerPage": 20
     }
 }
