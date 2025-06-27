@@ -1,7 +1,7 @@
 {
     "positions": {
         "id": { "x": 1370, "y": 2258, "font": "Montserrat", "fontSize": 36 },
-        "date": { "x": 1266, "y": 2180, "font": "Montserrat", "fontSize": 28 },
+        "date": { "x": 1266, "y": 2180, "font": "Montserrat", "fontSize": 34 },
         "name": { "x": 186, "y": 2180, "font": "Montserrat", "fontSize": 36 },
         "email": { "x": 186, "y": 2115, "font": "Montserrat", "fontSize": 36 },
         "remark": { "x": 200, "y": 550, "font": "Montserrat", "fontSize": 36 },
