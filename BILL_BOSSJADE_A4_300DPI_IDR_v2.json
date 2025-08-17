@@ -12,7 +12,7 @@
             "note": { "x": 360, "font": "Montserrat", "fontSize": 25 },
             "quantity": { "x": 980, "font": "Montserrat", "fontSize": 30 },
             "price_cny": { "x": 1280, "font": "Montserrat", "fontSize": 30 },
-            "price": { "x": 1515, "font": "Montserrat", "fontSize": 30 }
+            "price_usd": { "x": 1515, "font": "Montserrat", "fontSize": 30 }
         }
     },
     "settings": {
